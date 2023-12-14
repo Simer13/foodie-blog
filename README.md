@@ -1,12 +1,12 @@
-#**Final Project - Foodie Blog**
+# **Final Project - Foodie Blog**
 This project is created by Anup Kumar jha. 
 Welcome to Foodie Blog, a delightful place to discover amazing recipes and genuine products at affordable prcies. This web project is crafted by Anpu Kumar Jha, aiming to provide a seamless exprience for food enthusiasts.
 
 
  ## **My Website link**
- ```sh
+
 [Foodie Blog](https://thankful-smoke-06e585e10.1.azurestaticapps.net/)
- ```
+ 
 
 ## **Technologies Used**
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -92,4 +92,4 @@ If you would like to contribute to Foodie Blog, follow these steps:
 
 
 Feel free to explore, contribute, and enjoy Foodie Blog! 
-If you encounter any issues, please submit them in the [Issues](https://github.com/your-username/foodie-blog/issues) section.
+If you encounter any issues, please submit them in the [Issues](https://github.com/foodie-blog/issues) section.

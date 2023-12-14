@@ -17,6 +17,7 @@ Welcome to Foodie Blog, a delightful place to discover amazing recipes and genui
 **Screenshots**
 
 #Home Page
+
 ![Screenshot_2022-08-31-16-47-00-86](https://user-images.githubusercontent.com/89571744/187669346-b5a2ccdb-057b-4813-917f-18d26cf6104d.jpg)
 ![Screenshot_2022-08-31-16-47-10-11](https://user-images.githubusercontent.com/89571744/187669415-ed1f9ced-281e-4fb0-9cb2-1816a0ecc48a.jpg)
 ![Screenshot_2022-08-31-16-47-17-35](https://user-images.githubusercontent.com/89571744/187669435-50591cc2-f3ce-4fe1-bb75-c4a58ee0bf3e.jpg)
@@ -79,7 +80,7 @@ If you would like to contribute to Foodie Blog, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some Feature'.
+3. Make your changes and commit them: `git commit -m 'Add some Feature'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 

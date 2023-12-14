@@ -92,4 +92,4 @@ If you would like to contribute to Foodie Blog, follow these steps:
 
 
 Feel free to explore, contribute, and enjoy Foodie Blog! 
-If you encounter any issues, please submit them in the [Issues](https://github.com/foodie-blog/issues) section.
+If you encounter any issues, please submit them in the [Issues](https://github.com/Anupkjha2601/foodie-blog/issues) section.

@@ -5,8 +5,8 @@ Welcome to Foodie Blog, a delightful place to discover amazing recipes and genui
 
 
  My Website link:
- Foodie Blog
- https://thankful-smoke-06e585e10.1.azurestaticapps.net/    
+ [Foodie Blog](https://thankful-smoke-06e585e10.1.azurestaticapps.net/)
+   
 
 
 Technologies Used
